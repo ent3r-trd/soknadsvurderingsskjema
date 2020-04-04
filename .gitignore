@@ -1,0 +1,6 @@
+/node_modules
+.vscode
+log.csv
+oldFunctions.js
+transferExtras_testing.js
+log.txt

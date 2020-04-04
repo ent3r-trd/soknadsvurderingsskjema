@@ -1,0 +1,7 @@
+**/**
+!*.js
+!appsscript.json
+!.git
+!.gitignore
+transferExtras_testing.js
+log.txt
