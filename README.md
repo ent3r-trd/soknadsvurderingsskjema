@@ -1,15 +1,6 @@
 <!DOCTYPE html>
 <html>
     <body>
-        <div align="center" style="color:red;font-size:30px">
-            <b>
-                <i>
-                    !! LEGG TIL RIKTIG README FIL !!
-                </i>
-            </b>
-        </div>
-        <br>
-        <hr>
         <!-- LOGO  -->
         <div align="center">
             <img src="instructions/ENT3R-ny-farge.svg" alt="ENT3R-ny-farge.svg" width="75%" align="center">
@@ -132,7 +123,7 @@
         <!-- OVERTA INHABILE -->
         <div>
             <hr>
-            <h3 id="overfor_inhabile">Overta inhabile</h2>
+            <h3 id="overfor_inhabile">Overføre kandidater når du er inhabil</h2>
                 <h6><a href="#innholdsfortegnelse">
                     <i>Tilbake til innholdsfortegnelsen</i>
                 </a></h6>

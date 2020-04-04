@@ -53,7 +53,7 @@ function getActualLastRow(vals){
 
 function openGithubReadMe() {
     SpreadsheetApp.getUi().showModalDialog(HtmlService.createHtmlOutput(
-        "<script>window.open('https://github.com/johanfal/Applicant-evaluation/blob/master/README.md');google.script.host.close();</script>"),
+        "<script>window.open('https://github.com/ent3r-trd/soknadsvurderingsskjema/blob/master/README.md');google.script.host.close();</script>"),
         'Open Tab');
 }
 
