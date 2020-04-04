@@ -119,6 +119,15 @@
                 </kbd>
             </div>
             <br>
+            <p align="justify">
+                Før du kan begynne å kjøre funksjoner må du godkjenne dokumentet. Dette blir du bedt om når du prøver å kjøre en funksjon. For å godkjenne dokumentet må du trykke på "avansert" i popup-menyen, for deretter å trykke at du godkjenner dokumentet, slik det er gjort nedenfor.
+            <p>
+            <div align="center">
+                <kbd>
+                    <img width="600" src="instructions/godta_dokument.gif" alt="godta_dokument.png">
+                </kbd>
+            </div>
+            <br>
         </div>
         <!-- OVERTA INHABILE -->
         <div>
