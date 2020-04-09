@@ -108,8 +108,12 @@
                 skal vurdere kandidater.
                 <br><br>
                 I skjemat er det en egen meny kalt <span style="background-color:gainsboro;font-family:'Courier New';">Mentorrekruttering</span>. Her er
-                alle funksjonene man trenger for å behandle søknader. Nedenfor er
-                et bilde av funksjonene i menyen.
+                alle funksjonene man trenger for å behandle søknader.
+                <b>
+                Det er svært viktig at man er innlogget med Google-konto.
+                </b>
+                Hvis ikke man er innlogget vil ikke menyen dukke opp og ingen av funksjonene vil kunne kjøre.
+                Nedenfor er et bilde av funksjonene i menyen.
                 <a href="#hjelpefunksjoner">Her</a> er de mindre hjelpefunksjonene
                 forklart, mens <a href="#overfor_inhabile">overfør inhabile</a>, <a href="#overta_soknader">overta søknader</a> og <a href="#evalueringsstatus">oppdater evalueringsstatus</a>  er forklart i egne seksjoner.
             </p>
