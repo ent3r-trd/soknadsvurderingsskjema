@@ -12,7 +12,7 @@ function updateEvaluationsWithFeedback(){
         delCandidates(transferDel);
         updateAllCheckboxes();
     }
-    if(tvStore.length > 1){
+    if(tvStore.length > 0){
         transferThirdEvaluations(tvStore);
         delExtras(getDuplicateRows());
         if(tvStore.length == 1) getActive().toast("Evalueringsstatus for alle kandidater og behov for én ny tredje-vurdering er oppdatert.");
